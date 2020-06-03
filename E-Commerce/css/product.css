@@ -1,0 +1,35 @@
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    width: 80%;
+    padding-top: 50px;
+    grid-row-gap:50px;
+}
+
+.Big {
+    height: 350px;
+    width: 250px;
+    border-bottom: 2px solid #ddd;
+}
+
+.Pic {
+    width: 225px;
+}
+
+.picture {
+    width: 225px;
+    height: 225px;
+}
+
+.Price {
+    margin-top: 19px;
+}
+
+.btn {
+    float: right;
+    margin-top: -27px;
+}

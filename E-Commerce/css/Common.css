@@ -1,0 +1,11 @@
+.container {
+    margin: 0 auto;
+    height: 100%;
+}
+
+.form-horizontal .form-group {
+    margin-right: 0px;
+    margin-left: 0px;
+    align-text : centre;
+    width : 60%;
+}
